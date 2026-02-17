@@ -40,6 +40,8 @@
   },
   "files": [
     "dist/**",
+    "!dist/cli.d.*",
+    "!dist/cli.cjs",
     "!**/*.d.cts"
   ],
   "scripts": {
