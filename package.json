@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/htpasswd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "High-performance, modern TypeScript library for managing HTTP Basic Authentication password files with support for Bcrypt, APR1, SHA1, and Plaintext.",
   "keywords": [
     "htpasswd",
